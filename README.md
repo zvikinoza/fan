@@ -1,5 +1,5 @@
 # fan
 
-### Display custom text on linux GNOME GUI's top bar
+Side project. GNOME GUI extension for displaying custom OS stats on top.
 
 

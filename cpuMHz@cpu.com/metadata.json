@@ -1,5 +1,5 @@
 {
-	"description" : "my extension description",
+	"description" : "Display cpu mhz on left on the top bar",
 	"name" : "cpuMHz",
 	"shell-version" : [
 		"3.34.1"
